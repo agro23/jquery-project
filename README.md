@@ -1,4 +1,4 @@
-# _CALCULATOR_
+# _JQUERY_
 
 #### _jQuery Projects_
 
@@ -6,8 +6,9 @@
 
 ## Description
 
-_So far just a simple HTML file with scripts to test jQuery__
+_Simple HTML files with scripts to test jQuery__
 _written at *Epicodus* on 1/8/18_
+_including the cipher project_
 
 ## Setup/Installation Requirements
 
