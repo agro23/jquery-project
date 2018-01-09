@@ -6,7 +6,7 @@
 
 ## Description
 
-_Simple HTML files with scripts to test jQuery__
+_Simple HTML files with scripts to test jQuery_
 _written at *Epicodus* on 1/8/18_
 _including the cipher project_
 
@@ -30,7 +30,7 @@ _Feel free to reach out to me at andy.grossberg@gmail.com_
 _HTML_
 _CSS_
 _javascript_
-_jQuery
+_jQuery_
 
 ### License
 
